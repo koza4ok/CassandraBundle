@@ -1,5 +1,5 @@
 {
-  "name": "m6web/cassandra-bundle",
+  "name": "koza4ok/cassandra-bundle",
   "type" : "symfony-bundle",
   "description": "Symfony2 bundle on top of datastax/php-driver",
   "keywords": ["cassandra", "bundle"],
